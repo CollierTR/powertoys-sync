@@ -1,0 +1,141 @@
+{
+  "custom-layouts": [
+    {
+      "uuid": "{819851CB-F47C-4276-8BB8-A7B50A26A842}",
+      "name": "Custom layout 1",
+      "type": "grid",
+      "info": {
+        "rows": 2,
+        "columns": 2,
+        "rows-percentage": [
+          4964,
+          5036
+        ],
+        "columns-percentage": [
+          5002,
+          4998
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            2
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 11,
+        "sensitivity-radius": 89
+      }
+    },
+    {
+      "uuid": "{80692E36-179D-4519-8CDA-B4EAF52DF65D}",
+      "name": "Custom layout 2",
+      "type": "grid",
+      "info": {
+        "rows": 2,
+        "columns": 2,
+        "rows-percentage": [
+          3954,
+          6046
+        ],
+        "columns-percentage": [
+          6219,
+          3781
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 14,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "uuid": "{3B933539-37EC-47B6-A4AE-DCFC7D7FFDC2}",
+      "name": "Vertical",
+      "type": "grid",
+      "info": {
+        "rows": 2,
+        "columns": 1,
+        "rows-percentage": [
+          4999,
+          5001
+        ],
+        "columns-percentage": [
+          10000
+        ],
+        "cell-child-map": [
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 8,
+        "sensitivity-radius": 40
+      }
+    },
+    {
+      "uuid": "{48402862-4646-4482-89AB-D681D8B7CDE9}",
+      "name": "Custom layout 3",
+      "type": "grid",
+      "info": {
+        "rows": 1,
+        "columns": 2,
+        "rows-percentage": [
+          10000
+        ],
+        "columns-percentage": [
+          5001,
+          4999
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 16,
+        "sensitivity-radius": 20
+      }
+    },
+    {
+      "uuid": "{85776060-96A3-471D-954F-D979E19F93A1}",
+      "name": "Custom layout 4",
+      "type": "grid",
+      "info": {
+        "rows": 1,
+        "columns": 2,
+        "rows-percentage": [
+          10000
+        ],
+        "columns-percentage": [
+          6691,
+          3309
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 12,
+        "sensitivity-radius": 64
+      }
+    }
+  ]
+}
